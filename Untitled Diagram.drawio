@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-09-22T13:59:13.860Z" agent="5.0 (X11)" etag="o58Wfdvi1fiZ51tnNwdv" version="13.7.4" type="github">
+<mxfile host="app.diagrams.net" modified="2020-09-22T15:16:21.911Z" agent="5.0 (X11)" etag="yas8kyXwvYpKPMZbnwo1" version="13.7.4" type="github">
   <diagram id="WUytMhuzfeB6cCACb5Ij" name="Page-1">
     <mxGraphModel dx="1102" dy="572" grid="0" gridSize="20" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" background="none" math="0" shadow="0">
       <root>
@@ -448,7 +448,7 @@
         <mxCell id="33xBhob4T_5XSSy58yHE-280" value="FK" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;" parent="33xBhob4T_5XSSy58yHE-279" vertex="1">
           <mxGeometry width="30" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="33xBhob4T_5XSSy58yHE-281" value="products_id INT(11)" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" parent="33xBhob4T_5XSSy58yHE-279" vertex="1">
+        <mxCell id="33xBhob4T_5XSSy58yHE-281" value="product_id INT(11)" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" parent="33xBhob4T_5XSSy58yHE-279" vertex="1">
           <mxGeometry x="30" width="180" height="20" as="geometry" />
         </mxCell>
         <mxCell id="33xBhob4T_5XSSy58yHE-282" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="33xBhob4T_5XSSy58yHE-275" vertex="1">
